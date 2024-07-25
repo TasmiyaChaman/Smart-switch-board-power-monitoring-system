@@ -17,12 +17,12 @@ This project involves designing a PCB that monitors and displays the power consu
 - **Switching Relay**: Controls the power supply to the connected device.
 - **Power Supply**: Provides necessary power to the PCB and connected devices.
 
-![Schematics](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Schematics.png)
+![Schematics](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Schematics.png?sanitize=true&raw=true&w=200)
 *Figure 1: Schematics of the PCB design.*
-![PCB Routing ](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Routing.png)
+![PCB Routing ](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Routing.png?sanitize=true&raw=true&w=100)
 *Figure 2: PCB Routing design.*
-![PCB Layout](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/Layout%20design.png)
-*Figure 2: PCB layout design.*
+![PCB Layout](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/Layout%20design.png?sanitize=true&raw=true&w=100)
+*Figure 3: PCB layout design.*
 
 ## Installation and Setup
 1. **Hardware Setup**:
