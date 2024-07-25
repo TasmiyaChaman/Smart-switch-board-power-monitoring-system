@@ -38,7 +38,7 @@ This project involves designing a PCB that monitors and displays the power consu
 2. **Software Setup**:
    - Program the STM32 microcontroller with the provided firmware.
    - Configure any necessary settings for the display and current sensor.
-![Ideal Switch Board]()
+![Ideal Switch Board](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/Switch%20Board.jpeg)
 *Figure 2: Switch Board.*
 
 
