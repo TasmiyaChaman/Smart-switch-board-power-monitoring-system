@@ -17,12 +17,18 @@ This project involves designing a PCB that monitors and displays the power consu
 - **Switching Relay**: Controls the power supply to the connected device.
 - **Power Supply**: Provides necessary power to the PCB and connected devices.
 
-![Schematics](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Schematics.png?sanitize=true&raw=true&w=200)
-*Figure 1: Schematics of the PCB design.*
-![PCB Routing ](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Routing.png?sanitize=true&raw=true&w=100)
-*Figure 2: PCB Routing design.*
-![PCB Layout](https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/Layout%20design.png?sanitize=true&raw=true&w=100)
-*Figure 3: PCB layout design.*
+
+<img src="https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Schematics.png" alt="Schematics" width="900" height="700">
+<p>Figure 1: Schematics of the PCB design.</p>
+
+
+
+<img src="https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Routing.png" alt="Schematics" width="800" height="600">
+<p>Figure  2: PCB Routing design.</p>
+<br> <!-- Line break for spacing -->
+
+<img src="https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/Layout%20design.png" alt="Schematics" width="800" height="600">
+<p>Figure 3: PCB layout design.</p>
 
 ## Installation and Setup
 1. **Hardware Setup**:
@@ -32,7 +38,7 @@ This project involves designing a PCB that monitors and displays the power consu
 2. **Software Setup**:
    - Program the STM32 microcontroller with the provided firmware.
    - Configure any necessary settings for the display and current sensor.
-![Ideal Switch Board](/path/to/pcb_layout_image.png)
+![Ideal Switch Board]()
 *Figure 2: Switch Board.*
 
 
