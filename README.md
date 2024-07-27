@@ -23,12 +23,9 @@ This project involves designing a PCB that monitors and displays the power consu
 
 
 
-<img src="https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/PCB%20Routing.png" alt="Schematics" width="800" height="600">
-<p>Figure  2: PCB Routing design.</p>
+<img src="https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/smart%20switch.png" width="1100" height="600">
+<p>Figure  2: PCB Routing and layout Design.</p>
 <br> <!-- Line break for spacing -->
-
-<img src="https://github.com/TasmiyaChaman/Smart-switch-board-power-monitoring-system/blob/main/Layout%20design.png" alt="Schematics" width="800" height="600">
-<p>Figure 3: PCB layout design.</p>
 
 ## Installation and Setup
 1. **Hardware Setup**:
